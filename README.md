@@ -7,6 +7,16 @@ simulator or a machine-learning pipeline for medical imaging research.
 
 ## Selected work
 
+### [Kati Patang Website](https://github.com/shreeyachandel/kati-patang-website)
+
+Designed and developed Kati Patang's production website, covering responsive
+product design, frontend architecture, interactive components, technical SEO,
+server-side form integrations and Vercel deployment.
+
+**Next.js · React · JavaScript · Material UI · Vercel**
+
+[Visit the live website](https://katipatang.com)
+
 ### [Predicting Retinal Sensitivity from OCT](https://github.com/shreeyachandel/retinal-sensitivity-prediction)
 
 An end-to-end multimodal machine-learning project aligning OCT imaging with
