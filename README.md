@@ -1,6 +1,6 @@
 # Hi, I'm Shreeya Chandel
 
-I am an AI and software engineer with an MSc in Artificial Intelligence for
+I am a software and AI engineer with an MSc in Artificial Intelligence for
 Biomedicine and Healthcare from UCL. I enjoy building products that make
 complex systems easier to understand, whether that means an interactive logic
 simulator or a machine-learning pipeline for medical imaging research.
