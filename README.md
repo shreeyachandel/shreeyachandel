@@ -41,6 +41,7 @@ expressions into diagrams, and following computations step by step.
 ## Areas I work in
 
 - Machine learning and applied AI
+- Wireframing, UI/UX and web design
 - Healthcare and medical-imaging research
 - Full-stack product development
 - Data visualisation and interactive tools
