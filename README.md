@@ -38,6 +38,17 @@ expressions into diagrams, and following computations step by step.
 
 [Open the live application](https://logidex-one.vercel.app/)
 
+### [Credgenics — Litigation Management Platform](https://github.com/shreeyachandel/credgenics-litigation-case-study)
+
+Contributed frontend features to a production litigation management platform,
+including case detail screens, filters, tooltips and contextual instructions.
+Work also covered API integration, debugging, QA, and collaboration through
+product discussions and Scrum meetings.
+
+**Frontend development · API integration · Debugging · QA**
+
+[Read the professional case study](https://github.com/shreeyachandel/credgenics-litigation-case-study) · Source code is proprietary.
+
 ## Areas I work in
 
 - Machine learning and applied AI
